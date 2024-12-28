@@ -25,6 +25,6 @@ data:{ "firstname": "morpheus",
 console.log(body);
 console.log(body);
 console.log(body);
-  const body1=await response.headers();
+console.log(body);
 
 });
